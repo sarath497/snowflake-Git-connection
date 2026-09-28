@@ -1,1 +1,3 @@
-Select current_timestamp();
+SELECT CURRENT_TIMESTAMP();
+
+SELECT CURRENT_USER();
